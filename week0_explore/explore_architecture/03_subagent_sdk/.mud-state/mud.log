@@ -1,0 +1,331 @@
+[2026-07-25T22:15:01.765Z] MUD daemon started, listening on localhost:9999
+[2026-07-25T22:15:01.770Z] CLI server listening on localhost:9999
+[2026-07-25T22:15:48.720Z] Starting connection to localhost:4000
+[2026-07-25T22:15:48.722Z] Connected to MUD, starting login
+[2026-07-25T22:15:48.930Z] MUD says: 
+Attempting to Detect Client, Please Wait...
+
+[2026-07-25T22:15:49.736Z] Sending name: dummy
+[2026-07-25T22:15:49.743Z] MUD says: Collecting Protocol Information... Please Wait.
+
+[2026-07-25T22:15:50.354Z] MUD says: 
+[Client] Unknown | [Colors] Ansi | [MXP] No | [MSDP] No | [ATCP] No
+
+                           
+[2026-07-25T22:15:51.249Z] Sending password
+[2026-07-25T22:15:51.276Z] MUD says: Password: 
+[2026-07-25T22:15:53.261Z] Login complete
+[2026-07-25T22:15:53.266Z] Uncaught exception: read ECONNRESET
+[2026-07-25T22:16:11.823Z] MUD says: 
+Wrong password.
+Password: 
+[2026-07-25T22:16:11.824Z] Data: 
+Wrong password.
+Password: 
+[2026-07-25T22:16:14.744Z] MUD says: 
+
+Timed out... goodbye.
+
+[2026-07-25T22:19:02.662Z] MUD daemon started, listening on localhost:9999
+[2026-07-25T22:19:02.666Z] CLI server listening on localhost:9999
+[2026-07-25T22:19:14.710Z] Starting connection to localhost:4000 via nc
+[2026-07-25T22:19:14.713Z] NC Connection error: spawn nc ENOENT
+[2026-07-25T22:19:14.719Z] Uncaught exception: read ECONNRESET
+[2026-07-25T22:19:15.222Z] Sending name: dummy
+[2026-07-25T22:19:16.231Z] Sending password
+[2026-07-25T22:19:18.231Z] Login complete via nc
+[2026-07-25T22:19:38.828Z] MUD daemon started, listening on localhost:9999
+[2026-07-25T22:19:38.833Z] CLI server listening on localhost:9999
+[2026-07-25T22:19:47.287Z] Starting connection to localhost:4000 via nc (WSL)
+[2026-07-25T22:19:47.651Z] MUD says: 
+Attempting to Detect Client, Please Wait...
+
+[2026-07-25T22:19:47.822Z] Sending name: dummy
+[2026-07-25T22:19:47.851Z] MUD says: Collecting Protocol Information... Please Wait.
+
+[2026-07-25T22:19:48.837Z] Sending password
+[2026-07-25T22:19:48.851Z] MUD says: Collecting Protocol Information... Please Wait.
+
+[2026-07-25T22:19:49.051Z] MUD says: 
+[Client] Unknown | [Colors] Ansi | [MXP] No | [MSDP] No | [ATCP] No
+
+                           
+[2026-07-25T22:19:50.852Z] Login complete via nc
+[2026-07-25T22:20:17.048Z] MUD says: 
+
+Timed out... goodbye.
+
+[2026-07-25T22:21:26.481Z] MUD daemon started, listening on localhost:9999
+[2026-07-25T22:21:26.487Z] CLI server listening on localhost:9999
+[2026-07-25T22:21:48.989Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T22:21:49.295Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T22:21:50.522Z] Sending name: dummy
+[2026-07-25T22:21:50.621Z] MUD: Collecting Protocol Information... Please Wait. 
+[2026-07-25T22:21:50.723Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T22:21:52.027Z] Sending password: helloworld
+[2026-07-25T22:21:52.062Z] MUD: Password: ÿû
+[2026-07-25T22:21:55.043Z] Login complete via netcat
+[2026-07-25T22:22:19.073Z] MUD:  ÿü Timed out... goodbye. 
+[2026-07-25T22:23:19.528Z] MUD daemon started, listening on localhost:9999
+[2026-07-25T22:23:20.411Z] CLI server listening on localhost:9999
+[2026-07-25T22:23:25.503Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T22:23:25.953Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T22:23:27.382Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T22:23:28.202Z] Sending name: dummy
+[2026-07-25T22:23:28.379Z] MUD: Password: ÿû
+[2026-07-25T22:23:30.712Z] Sending password: helloworld
+[2026-07-25T22:23:30.749Z] MUD: ÿü       Welcome to                                T  B  A  M   U   D       
+[2026-07-25T22:23:34.727Z] Login complete via netcat
+[2026-07-25T22:24:17.181Z] MUD:  Welcome to tbaMUD! 0) Exit from tbaMUD. 1) Enter the game. 2) Enter descrip
+[2026-07-25T22:24:17.182Z] Data: 
+Welcome to tbaMUD!
+0) Exit from tbaMUD.
+1) Enter the gam
+[2026-07-25T22:24:26.435Z] MUD:  That's not a menu choice!  Welcome to tbaMUD! 0) Exit from tbaMUD. 1) Ente
+[2026-07-25T22:24:26.436Z] Data: 
+That's not a menu choice!
+
+Welcome to tbaMUD!
+0) Exit f
+[2026-07-25T22:24:38.942Z] MUD:  Welcome to tbaMUD!  May your visit here be... Enlightening  [0;33mThe Templ
+[2026-07-25T22:24:38.942Z] Data: 
+Welcome to tbaMUD!  May your visit here be... Enlightening
+[2026-07-25T22:24:42.956Z] MUD:  A booming voice announces, 'Welcome Dummy to the realm!'  21H 100M 83V (news
+[2026-07-25T22:25:11.041Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:26:12.633Z] NC process closed with code 0
+[2026-07-25T22:48:16.872Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T22:48:17.296Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T22:48:18.738Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T22:48:19.534Z] Sending name: dummy
+[2026-07-25T22:48:19.590Z] MUD: Password: ÿû
+[2026-07-25T22:48:22.050Z] Sending password: helloworld
+[2026-07-25T22:48:22.171Z] MUD: ÿü Reconnecting.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:48:26.056Z] Login complete via netcat
+[2026-07-25T22:48:30.170Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:48:33.054Z] MUD: You're broke!  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:48:33.055Z] Data: You're broke!
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:48:41.604Z] MUD: Huh!?!  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:48:41.605Z] Data: Huh!?!
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:49:41.139Z] MUD: [0;33mThe Temple Square[0m    You are standing on the temple square.  Huge ma
+[2026-07-25T22:49:41.140Z] Data: The Temple Square
+   You are standing on the temple square.
+[2026-07-25T22:49:45.465Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:49:47.732Z] MUD: [0;33mMarket Square[0m    You are standing on the market square, the famous S
+[2026-07-25T22:49:47.732Z] Data: Market Square
+   You are standing on the market square, the
+[2026-07-25T22:49:54.737Z] MUD: [0;33mMain Street[0m    You are on the main street passing through the City o
+[2026-07-25T22:49:54.738Z] Data: Main Street
+   You are on the main street passing through t
+[2026-07-25T22:50:06.572Z] MUD: [0;33mThe Bakery[0m    You are standing inside the small bakery.  A sweet sce
+[2026-07-25T22:50:06.572Z] Data: The Bakery
+   You are standing inside the small bakery.  A 
+[2026-07-25T22:50:09.044Z] MUD: [0;33mThe Bakery[0m    You are standing inside the small bakery.  A sweet sce
+[2026-07-25T22:50:09.045Z] Data: The Bakery
+   You are standing inside the small bakery.  A 
+[2026-07-25T22:50:19.038Z] MUD:  ##   Available   Item                                               Cost -----
+[2026-07-25T22:50:19.038Z] Data:  ##   Available   Item                                      
+[2026-07-25T22:50:21.511Z] MUD: Huh!?!  21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:21.511Z] Data: Huh!?!
+
+21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:25.838Z] MUD: You say, 'hello'  21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:25.839Z] Data: You say, 'hello'
+
+21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:36.038Z] MUD:    Free instructions provided by the store:    Buy  - Will buy you some bread o
+[2026-07-25T22:50:36.038Z] Data:    Free instructions provided by the store:
+   Buy  - Will 
+[2026-07-25T22:50:38.406Z] MUD: You ask the baker, 'about danish'  21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:38.406Z] Data: You ask the baker, 'about danish'
+
+21H 100M 80V (news) (mo
+[2026-07-25T22:50:42.935Z] MUD: You ask the baker, 'about bread'  21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:42.935Z] Data: You ask the baker, 'about bread'
+
+21H 100M 80V (news) (mot
+[2026-07-25T22:50:54.192Z] MUD:    You see that this is truly delicious pastry.  Must be made by a Dane from De
+[2026-07-25T22:50:54.193Z] Data:    You see that this is truly delicious pastry.  Must be mad
+[2026-07-25T22:50:58.337Z] MUD: You do not see that here.  21H 100M 80V (news) (motd) > 
+[2026-07-25T22:50:58.338Z] Data: You do not see that here.
+
+21H 100M 80V (news) (motd) > 
+[2026-07-25T22:51:00.920Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:01.538Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:01.538Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:10.433Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:10.434Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:14.244Z] MUD:    You see that this is truly delicious pastry.  Must be made by a Dane from De
+[2026-07-25T22:51:14.244Z] Data:    You see that this is truly delicious pastry.  Must be mad
+[2026-07-25T22:51:17.437Z] MUD:    You see that this is truly delicious pastry.  Must be made by a Dane from De
+[2026-07-25T22:51:17.437Z] Data:    You see that this is truly delicious pastry.  Must be mad
+[2026-07-25T22:51:25.678Z] MUD: [0;33mThe Bakery[0m    You are standing inside the small bakery.  A sweet sce
+[2026-07-25T22:51:25.678Z] Data: The Bakery
+   You are standing inside the small bakery.  A 
+[2026-07-25T22:51:29.901Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:29.902Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:41.137Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:41.137Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:43.815Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:43.815Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:48.862Z] MUD:    A fat, nice looking baker.  But you can see that he has many scars on his bo
+[2026-07-25T22:51:48.863Z] Data:    A fat, nice looking baker.  But you can see that he has m
+[2026-07-25T22:51:58.752Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:51:58.752Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:52:02.975Z] MUD: You do not see that here.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:52:02.976Z] Data: You do not see that here.
+
+21H 100M 83V (news) (motd) > 
+[2026-07-25T22:52:05.963Z] MUD: You ask the baker, 'about prices'  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:52:05.963Z] Data: You ask the baker, 'about prices'
+
+21H 100M 83V (news) (mo
+[2026-07-25T22:52:15.333Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T22:53:17.245Z] NC process closed with code 0
+[2026-07-25T23:01:32.018Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T23:01:32.477Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T23:01:33.920Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T23:01:34.713Z] Sending name: dummy
+[2026-07-25T23:01:34.758Z] MUD: Password: ÿû
+[2026-07-25T23:01:37.224Z] Sending password: helloworld
+[2026-07-25T23:01:37.368Z] MUD: ÿü Reconnecting.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:01:41.233Z] Login complete via netcat
+[2026-07-25T23:01:49.504Z] MUD: [0;33mThe Bakery[0m    You are standing inside the small bakery.  A sweet sce
+[2026-07-25T23:01:49.505Z] Data: The Bakery
+   You are standing inside the small bakery.  A 
+[2026-07-25T23:02:23.250Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:02:29.102Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:02:29.103Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:02:36.212Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:02:36.212Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:02:37.759Z] MUD:  The Peacekeeper has arrived.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:02:46.327Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:02:46.328Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:03:37.721Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:03:53.195Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:03:53.196Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:04:00.693Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:04:00.693Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:04:10.454Z] Disconnected from MUD
+[2026-07-25T23:04:10.461Z] NC process closed with code null
+[2026-07-25T23:04:20.034Z] Uncaught exception: read ECONNRESET
+[2026-07-25T23:04:43.685Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T23:04:43.958Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T23:04:45.405Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T23:04:46.209Z] Sending name: dummy
+[2026-07-25T23:04:46.248Z] MUD: Password: ÿû
+[2026-07-25T23:04:48.710Z] Sending password: helloworld
+[2026-07-25T23:04:48.779Z] MUD: ÿü Reconnecting.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:04:52.322Z] Uncaught exception: read ECONNRESET
+[2026-07-25T23:04:52.720Z] Login complete via netcat
+[2026-07-25T23:05:01.562Z] MUD: [0;33mThe Bakery[0m    You are standing inside the small bakery.  A sweet sce
+[2026-07-25T23:05:01.562Z] Data: The Bakery
+   You are standing inside the small bakery.  A 
+[2026-07-25T23:05:14.241Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:05:14.241Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:05:26.413Z] MUD:  You are hungry. You are thirsty.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:05:32.873Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:05:32.873Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:05:48.961Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:05:48.962Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:06:05.078Z] Disconnected from MUD
+[2026-07-25T23:06:05.082Z] NC process closed with code null
+[2026-07-25T23:06:06.982Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T23:06:07.249Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T23:06:08.694Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T23:06:09.492Z] Sending name: dummy
+[2026-07-25T23:06:09.533Z] MUD: Password: ÿû
+[2026-07-25T23:06:12.000Z] Sending password: helloworld
+[2026-07-25T23:06:12.122Z] MUD: ÿü Reconnecting.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:06:16.009Z] Login complete via netcat
+[2026-07-25T23:06:19.522Z] MUD: Huh!?!  Did you mean:   se   sell   stand  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:06:19.522Z] Data: Huh!?!
+
+Did you mean:
+  se
+  sell
+  stand
+
+21H 100M 8
+[2026-07-25T23:06:41.737Z] Disconnected from MUD
+[2026-07-25T23:06:41.741Z] NC process closed with code null
+[2026-07-25T23:06:44.102Z] Starting connection to localhost:4000 via WSL netcat
+[2026-07-25T23:06:44.370Z] MUD:  Attempting to Detect Client, Please Wait... ÿý
+[2026-07-25T23:06:45.816Z] MUD:  [H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mCol
+[2026-07-25T23:06:46.620Z] Sending name: dummy
+[2026-07-25T23:06:46.655Z] MUD: Password: ÿû
+[2026-07-25T23:06:49.124Z] Sending password: helloworld
+[2026-07-25T23:06:49.241Z] MUD: ÿü Reconnecting.  21H 100M 83V (news) (motd) > 
+[2026-07-25T23:06:53.126Z] Login complete via netcat
+[2026-07-25T23:06:53.130Z] Uncaught exception: read ECONNRESET

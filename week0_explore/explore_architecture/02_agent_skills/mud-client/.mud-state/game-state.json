@@ -1,0 +1,138 @@
+{
+  "connected": true,
+  "character": {
+    "name": "",
+    "level": 0,
+    "hp": 21,
+    "mana": 100,
+    "moves": 83
+  },
+  "location": {
+    "room": "Welcome to tbaMUD!  May your visit here be... Enlightening",
+    "description": "\u001b[0;33mOn The Concourse\u001b[0m\r\n   You are at the southwest corner of the city wall.  The Concourse leads\r\nboth north and east.\r\n\u001b[0;36m",
+    "lastUpdated": "2026-07-25T03:00:20.147Z"
+  },
+  "inventory": [],
+  "equipment": [],
+  "combatActive": false,
+  "lastPrompt": "21H 100M 83V",
+  "outputBuffer": [
+    "On The Concourse\r\n   You are at the southwest corner of the city wall.  The Concourse leads\r\nboth north and east.\r\n[ Exits: n e w ]\r\nA cityguard stands here.\r\nA cityguard stands here.\r\n\r\n21H 100M 83V (news) (motd) > ",
+    "\u001b[0;33mOn The Concourse\u001b[0m\r\n   You are at the southwest corner of the city wall.  The Concourse leads\r\nboth north and east.\r\n\u001b[0;36m[ Exits: n e w ]\u001b[0m\r\n\u001b[0;33mA cityguard stands here.\r\n\u001b[0m\u001b[0;33mA cityguard stands here.\r\n\u001b[0m\r\n21H 100M 83V (news) (motd) > "
+  ],
+  "map": {},
+  "goals": [
+    {
+      "name": "Get to the fountain and quench your thirst",
+      "description": "",
+      "completed": true,
+      "createdAt": "2026-07-25T02:28:51.311Z",
+      "subGoals": []
+    },
+    {
+      "name": "Get",
+      "description": "",
+      "completed": false,
+      "createdAt": "2026-07-25T02:48:24.558Z",
+      "subGoals": []
+    }
+  ],
+  "locationHistory": [
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T02:52:53.367Z"
+    },
+    {
+      "room": "Wrong password.",
+      "timestamp": "2026-07-25T02:53:01.274Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T02:54:23.795Z"
+    },
+    {
+      "room": "Wrong password.",
+      "timestamp": "2026-07-25T02:54:25.289Z"
+    },
+    {
+      "room": "Reconnecting.",
+      "timestamp": "2026-07-25T02:54:34.868Z"
+    },
+    {
+      "room": "The lightning stops.",
+      "timestamp": "2026-07-25T02:54:35.029Z"
+    },
+    {
+      "room": "Grunting Boar Inn, is to the east.  Just south of here you see the market",
+      "timestamp": "2026-07-25T02:54:43.990Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T02:58:57.439Z"
+    },
+    {
+      "room": "Reconnecting.",
+      "timestamp": "2026-07-25T02:58:59.101Z"
+    },
+    {
+      "room": "Alas, you cannot go that way...",
+      "timestamp": "2026-07-25T02:59:22.541Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T03:00:01.434Z"
+    },
+    {
+      "room": "Welcome to tbaMUD!",
+      "timestamp": "2026-07-25T03:00:02.931Z"
+    },
+    {
+      "room": "That's not a menu choice!",
+      "timestamp": "2026-07-25T03:00:05.394Z"
+    },
+    {
+      "room": "Welcome to tbaMUD!  May your visit here be... Enlightening",
+      "timestamp": "2026-07-25T03:00:20.147Z"
+    }
+  ],
+  "worldKnowledge": {
+    "rooms": {
+      "The lightning stops.": {
+        "description": "",
+        "exits": [],
+        "npcs": [
+          "lightning stops."
+        ]
+      },
+      "Grunting Boar Inn, is to the east.  Just south of here you see the market": {
+        "description": "\u001b[0;33mThe Entrance Hall Of The Grunting Boar Inn\u001b[0m\r\n   You are standing in the entrance hall of the Grunting Boar Inn.  The hall\r\nhas been wisely decorated with simple, functional furniture.  The heavy smell\r\nof dust and aging paper drifts in from the Post Office to the north.  A small\r\nstaircase leads up to the reception and the bar is to the east.\r\n\u001b[0;36m[ Exits: n e w u ]\u001b[0m\r\n\u001b[0;32m( 2) \u001b[0;32mA leather wristguard lies in the dirt.\r\n\u001b[0m\u001b[0;32m\u001b[0;32mA belt made of leather was left here",
+        "exits": [
+          "n",
+          "e",
+          "w",
+          "u"
+        ]
+      },
+      "Reconnecting.": {
+        "description": "\u001b[0;33mThe Entrance Hall Of The Grunting Boar Inn\u001b[0m\r\n   You are standing in the entrance hall of the Grunting Boar Inn.  The hall\r\nhas been wisely decorated with simple, functional furniture.  The heavy smell\r\nof dust and aging paper drifts in from the Post Office to the north.  A small\r\nstaircase leads up to the reception and the bar is to the east.\r\n\u001b[0;36m[ Exits: n e w u ]\u001b[0m\r\n\u001b[0;32m( 2) \u001b[0;32mA leather wristguard lies in the dirt.\r\n\u001b[0m\u001b[0;32m\u001b[0;32mA belt made of leather was left here",
+        "exits": [
+          "n",
+          "e",
+          "w",
+          "u"
+        ]
+      },
+      "Welcome to tbaMUD!  May your visit here be... Enlightening": {
+        "description": "\u001b[0;33mOn The Concourse\u001b[0m\r\n   You are at the southwest corner of the city wall.  The Concourse leads\r\nboth north and east.\r\n\u001b[0;36m[ Exits: n e w ]\u001b[0m\r\n\u001b[0;33mA cityguard stands here.\r\n\u001b[0m\u001b[0;33mA cityguard stands here.\r\n\u001b[0m\r\n21H 100M 83V (news) (motd) > ",
+        "exits": [
+          "n",
+          "e",
+          "w"
+        ]
+      }
+    },
+    "npcs": {},
+    "monsters": {},
+    "items": {}
+  }
+}

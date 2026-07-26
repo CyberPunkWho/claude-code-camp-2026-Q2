@@ -1,0 +1,47 @@
+{
+  "skill_name": "mud-client",
+  "evals": [
+    {
+      "id": 1,
+      "name": "initial-connection",
+      "prompt": "Connect to the MUD and check your character status. What's your current HP and mana?",
+      "expected_output": "Connection succeeds, daemon logs in with dummy/helloworld, returns character stats with HP and mana values",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "basic-exploration",
+      "prompt": "Look around your current location. What do you see? Then move north if possible.",
+      "expected_output": "Room description with exits is displayed, character can move to north or gets message about blocked direction",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "social-interaction",
+      "prompt": "Say 'Hello everyone!' in the current room, then check who else is here.",
+      "expected_output": "Message confirmation or echo, list of NPCs/players in the room",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "combat-scenario",
+      "prompt": "Look around for enemies. If you find one, engage in combat. What happens?",
+      "expected_output": "Room description with enemies identified, combat initiates with damage output, HP is updated",
+      "files": []
+    },
+    {
+      "id": 5,
+      "name": "inventory-management",
+      "prompt": "Check your inventory. What are you carrying? Try to pick up something if available.",
+      "expected_output": "Current inventory list displayed, item pickup attempt with success/failure message",
+      "files": []
+    },
+    {
+      "id": 6,
+      "name": "conversational-play",
+      "prompt": "I want to explore this area and find something interesting. Guide me through discovery and interaction.",
+      "expected_output": "Skill guides player through exploration, shows room descriptions, identifies interesting elements, suggests interactions",
+      "files": []
+    }
+  ]
+}

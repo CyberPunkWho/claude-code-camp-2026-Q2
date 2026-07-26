@@ -1,0 +1,11 @@
+{
+  "name": "mud-client",
+  "version": "1.0.0",
+  "description": "MUD (tbaMUD) client with persistent connection and game state management",
+  "main": "mud-daemon.js",
+  "scripts": {
+    "start": "node mud-daemon.js",
+    "cli": "node mud-cli.js"
+  },
+  "dependencies": {}
+}

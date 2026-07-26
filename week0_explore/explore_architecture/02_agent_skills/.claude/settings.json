@@ -1,0 +1,22 @@
+{
+  "project_name": "MUD Client Skill - Agent Skills",
+  "description": "Claude Code skill for playing tbaMUD with persistent memory and goal tracking",
+  "paths": {
+    "skill": "./.claude/skills/mud-client",
+    "data": "./.claude/skills/mud-client/data",
+    "logs": "./.claude/skills/mud-client/.mud-state"
+  },
+  "hooks": {
+    "on_start": "npm install --prefix ./.claude/skills/mud-client",
+    "on_connect": "node ./.claude/skills/mud-client/mud-daemon.js"
+  },
+  "permissions": {
+    "bash": {
+      "allow": [
+        "node ./.claude/skills/mud-client/mud-daemon.js",
+        "node ./.claude/skills/mud-client/mud-cli.js",
+        "npm install --prefix ./.claude/skills/mud-client"
+      ]
+    }
+  }
+}

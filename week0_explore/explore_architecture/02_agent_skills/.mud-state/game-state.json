@@ -1,0 +1,24 @@
+{
+  "connected": false,
+  "character": {
+    "name": "",
+    "level": 0,
+    "hp": 0,
+    "mana": 0,
+    "moves": 0
+  },
+  "location": {
+    "room": "",
+    "description": ""
+  },
+  "inventory": [],
+  "combatActive": false,
+  "lastPrompt": "",
+  "outputBuffer": [
+    "\r\n\r\nMultiple login detected -- disconnecting.\r\n",
+    "\r\nIllegal password.\r\nPassword: Attempting to Detect Client, Please Wait...\r\nCollecting Protocol Information... Please Wait.\r\nAttempting to Detect Client, Please Wait...\r\nCollecting Protocol Information... Please Wait.\r\n\r\nIllegal password.\r\nPassword: \r\nIllegal password.\r\nPassword: Collecting Protocol Information... Please Wait.\r\nCollecting Protocol Information... Please Wait.\r\n\r\nIllegal password.\r\nPassword: ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1Collecting Protocol Information... Please Wait.\r\nESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1Collecting Protocol Information... Please Wait.\r\n[[[[Collecting Protocol Information... Please Wait.\r\n[[[[Collecting Protocol Information... Please Wait.\r\nCollecting Protocol Information... Please Wait.\r\nCollecting Protocol Information... Please Wait.\r\n\r\n[Client] Unknown | [Colors] Ansi | [MXP] Yes | [MSDP] Yes | [ATCP] No\r\n\r\n                               T  B  A  M  U  D\r\n                                   2 0 2 5 \r\n\r\n   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,\r\n        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer\r\n\r\nBy what name do you wish to be known? \r\n[Client] Unknown | [Colors] Ansi | [MXP] Yes | [MSDP] Yes | [ATCP] No\r\n\r\n                               T  B  A  M  U  D\r\n                                   2 0 2 5 \r\n\r\n   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,\r\n        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer\r\n\r\nBy what name do you wish to be known? Did I get that right, Helloworld (<send>Y</send>/<send>N</send>)? Did I get that right, Helloworld (<send>Y</send>/<send>N</send>)? \r\n\r\nMultiple login detected -- disconnecting.\r\nNew character.\r\nGive me a password for Helloworld: New character.\r\nGive me a password for Helloworld: ",
+    "\r\n\r\nMultiple login detected -- disconnecting.\r\n",
+    "\r\nAttempting to Detect Client, Please Wait...\r\n\r\nAttempting to Detect Client, Please Wait...\r\nESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1ESERVER_IDtbaMUDFNAMEtbaMUDPLAYERS1UPTIME1784506585CRAWL DELAY-1[[[[[[[[Collecting Protocol Information... Please Wait.\r\nCollecting Protocol Information... Please Wait.\r\n\r\n[Client] Unknown | [Colors] Ansi | [MXP] Yes | [MSDP] Yes | [ATCP] No\r\n\r\n                               T  B  A  M  U  D\r\n                                   2 0 2 5 \r\n\r\n   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,\r\n        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer\r\n\r\nBy what name do you wish to be known? \r\n[Client] Unknown | [Colors] Ansi | [MXP] Yes | [MSDP] Yes | [ATCP] No\r\n\r\n                               T  B  A  M  U  D\r\n                                   2 0 2 5 \r\n\r\n   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,\r\n        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer\r\n\r\nBy what name do you wish to be known? Invalid name, please try another.\r\nName: Invalid name, please try another.\r\nName: Did I get that right, Helloworld (<send>Y</send>/<send>N</send>)? Did I get that right, Helloworld (<send>Y</send>/<send>N</send>)? New character.\r\nGive me a password for Helloworld: New character.\r\nGive me a password for Helloworld: \r\n\r\nMultiple login detected -- disconnecting.\r\n"
+  ],
+  "map": {}
+}
