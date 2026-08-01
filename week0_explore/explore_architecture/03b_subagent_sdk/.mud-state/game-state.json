@@ -1,0 +1,278 @@
+{
+  "connected": true,
+  "character": {
+    "name": "",
+    "level": 0,
+    "xp": 0,
+    "hp": 21,
+    "mana": 100,
+    "moves": 83,
+    "maxHp": 0,
+    "maxMana": 0
+  },
+  "location": {
+    "room": "Attempting to Detect Client, Please Wait...",
+    "description": "\u001b[0;36m",
+    "lastUpdated": "2026-07-25T23:06:53.127Z"
+  },
+  "inventory": [],
+  "equipment": [],
+  "combatActive": false,
+  "lastPrompt": "21H 100M 83V",
+  "outputBuffer": [
+    "Huh!?!\r\n\r\nDid you mean:\r\n  se\r\n  sell\r\n  stand\r\n\r\n21H 100M 83V (news) (motd) > ",
+    "Huh!?!\r\n\r\nDid you mean:\r\n  se\r\n  sell\r\n  stand\r\n\r\n21H 100M 83V (news) (motd) > ",
+    "\r\nAttempting to Detect Client, Please Wait...\r\n��\u0018\r\n\u001b[H\u001b[J\u001b[1;31m[\u001b[1;31mClient\u001b[1;31m] \u001b[0;37mUnknown\u001b[0;00m | \u001b[1;31m[\u001b[1;31mColors\u001b[1;31m] \u001b[0;37mAnsi\u001b[0;00m | \u001b[1;31m[\u001b[1;31mMXP\u001b[1;31m] \u001b[0;37mNo\u001b[0;00m | \u001b[1;31m[\u001b[1;31mMSDP\u001b[1;31m] \u001b[0;37mNo\u001b[0;00m | \u001b[1;31m[\u001b[1;31mATCP\u001b[1;31m] \u001b[0;37mNo\u001b[0;00m\r\n\r\n                               T  B  A  M  U  D\r\n                                   2 0 2 5 \r\n\r\n   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,\r\n        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer\r\n\r\nBy what name do you wish to be known? Password: ��\u0001��\u0001\r\nReconnecting.\r\n\r\n21H 100M 83V (news) (motd) > "
+  ],
+  "map": {},
+  "goals": [],
+  "locationHistory": [
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T22:15:53.262Z"
+    },
+    {
+      "room": "Wrong password.",
+      "timestamp": "2026-07-25T22:16:11.824Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T22:19:50.855Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T22:21:55.045Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T22:23:34.729Z"
+    },
+    {
+      "room": "Welcome to tbaMUD!",
+      "timestamp": "2026-07-25T22:24:17.182Z"
+    },
+    {
+      "room": "That's not a menu choice!",
+      "timestamp": "2026-07-25T22:24:26.436Z"
+    },
+    {
+      "room": "Welcome to tbaMUD!  May your visit here be... Enlightening",
+      "timestamp": "2026-07-25T22:24:38.942Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T22:48:26.058Z"
+    },
+    {
+      "room": "You're broke!",
+      "timestamp": "2026-07-25T22:48:33.055Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T22:48:41.605Z"
+    },
+    {
+      "room": "Grunting Boar Inn, is to the east.  Just south of here you see the market",
+      "timestamp": "2026-07-25T22:49:41.140Z"
+    },
+    {
+      "room": "A large, peculiar looking statue is standing in the middle of the square.",
+      "timestamp": "2026-07-25T22:49:47.732Z"
+    },
+    {
+      "room": "A small sign is on the counter.",
+      "timestamp": "2026-07-25T22:50:06.572Z"
+    },
+    {
+      "room": "A small sign is on the counter.",
+      "timestamp": "2026-07-25T22:50:09.045Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T22:50:21.511Z"
+    },
+    {
+      "room": "You say, 'hello'",
+      "timestamp": "2026-07-25T22:50:25.839Z"
+    },
+    {
+      "room": "You ask the baker, 'about danish'",
+      "timestamp": "2026-07-25T22:50:38.406Z"
+    },
+    {
+      "room": "You ask the baker, 'about bread'",
+      "timestamp": "2026-07-25T22:50:42.935Z"
+    },
+    {
+      "room": "Denmark (which surely is not the capital of Sweden!  ).  Former ruler of",
+      "timestamp": "2026-07-25T22:50:54.193Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:50:58.338Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:01.538Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:10.434Z"
+    },
+    {
+      "room": "Denmark (which surely is not the capital of Sweden!  ).  Former ruler of",
+      "timestamp": "2026-07-25T22:51:14.244Z"
+    },
+    {
+      "room": "Denmark (which surely is not the capital of Sweden!  ).  Former ruler of",
+      "timestamp": "2026-07-25T22:51:17.437Z"
+    },
+    {
+      "room": "A small sign is on the counter.",
+      "timestamp": "2026-07-25T22:51:25.678Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:29.902Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:41.137Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:43.815Z"
+    },
+    {
+      "room": "The baker is in excellent condition.",
+      "timestamp": "2026-07-25T22:51:48.863Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:51:58.752Z"
+    },
+    {
+      "room": "You do not see that here.",
+      "timestamp": "2026-07-25T22:52:02.976Z"
+    },
+    {
+      "room": "You ask the baker, 'about prices'",
+      "timestamp": "2026-07-25T22:52:05.963Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T23:01:41.234Z"
+    },
+    {
+      "room": "A small sign is on the counter.",
+      "timestamp": "2026-07-25T23:01:49.505Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:02:29.103Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:02:36.212Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:02:46.328Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:03:53.196Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:04:00.693Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T23:04:52.720Z"
+    },
+    {
+      "room": "A small sign is on the counter.",
+      "timestamp": "2026-07-25T23:05:01.562Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:05:14.241Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:05:32.873Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:05:48.962Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T23:06:16.010Z"
+    },
+    {
+      "room": "Huh!?!",
+      "timestamp": "2026-07-25T23:06:19.522Z"
+    },
+    {
+      "room": "Attempting to Detect Client, Please Wait...",
+      "timestamp": "2026-07-25T23:06:53.127Z"
+    }
+  ],
+  "worldKnowledge": {
+    "rooms": {
+      "Welcome to tbaMUD!  May your visit here be... Enlightening": {
+        "description": "\r\nWelcome to tbaMUD!  May your visit here be... Enlightening\r\n\r\n\u001b[0;33mThe Temple Of Midgaard\u001b[0m\r\n   You are in the southern end of the temple hall in the Temple of Midgaard.\r\nThe temple has been constructed from giant marble blocks, eternal in\r\nappearance, and most of the walls are covered by ancient wall paintings\r\npicturing Gods, giants and peasants.\r\n   Large steps lead down through the grand temple gate, descending the huge\r\nmound upon which the temple is built and ends on the temple squar",
+        "exits": [
+          "n",
+          "e",
+          "s",
+          "w",
+          "d"
+        ],
+        "npcs": [
+          "temple has been constructed from giant marble blocks"
+        ]
+      },
+      "Grunting Boar Inn, is to the east.  Just south of here you see the market": {
+        "description": "\u001b[0;33mThe Temple Square\u001b[0m\r\n   You are standing on the temple square.  Huge marble steps lead up to the\r\ntemple gate.  The entrance to the Clerics' Guild is to the west, and the old\r\nGrunting Boar Inn, is to the east.  Just south of here you see the market\r\nsquare, the center of Midgaard.\r\n\u001b[0;36m[ Exits: n e s w ]\u001b[0m\r\n\u001b[0;32m\u001b[0;32mA large fountain carved from blue-streaked marble is here, bubbling merrily.\r\n\u001b[0m\r\n21H 100M 82V (news) (motd) > ",
+        "exits": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ]
+      },
+      "A large, peculiar looking statue is standing in the middle of the square.": {
+        "description": "\u001b[0;33mMain Street\u001b[0m\r\n   You are on the main street passing through the City of Midgaard.  South of\r\nhere is the entrance to the Armory, and the bakery is to the north.  East of\r\nhere is the market square.\r\n\u001b[0;36m[ Exits: n e s w ]\u001b[0m\r\n\u001b[0;33mA Peacekeeper is standing here, ready to jump in at the first sign of trouble.\r\n\u001b[0m\r\n21H 100M 81V (news) (motd) > ",
+        "exits": [
+          "n",
+          "e",
+          "s",
+          "w"
+        ]
+      },
+      "A small sign is on the counter.": {
+        "description": "\u001b[0;33mThe Bakery\u001b[0m\r\n   You are standing inside the small bakery.  A sweet scent of danish and\r\nfine bread fills the room.  The bread and Danish are arranged in fine order\r\non the shelves, and seem to be of the finest quality.\r\nA small sign is on the counter.\r\n\u001b[0;36m[ Exits: s ]\u001b[0m\r\n\u001b[0;33mA Peacekeeper is standing here, ready to jump in at the first sign of trouble.\r\n\u001b[0m\u001b[0;33mThe baker looks at you calmly, wiping flour from his face with one hand.\r\n\u001b[0m\r\n21H 100M 83V (news) (motd) > ",
+        "exits": [
+          "s"
+        ],
+        "npcs": [
+          "small sign is on the counter."
+        ]
+      },
+      "The baker is in excellent condition.": {
+        "description": "",
+        "exits": [],
+        "npcs": [
+          "baker is in excellent condition.",
+          "baker is using:"
+        ]
+      }
+    },
+    "npcs": {},
+    "monsters": {},
+    "items": {}
+  }
+}

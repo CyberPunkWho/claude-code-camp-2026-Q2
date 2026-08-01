@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/mnt/c/Users/felip/OneDrive/Documentos/Claude Cowork/Claude Code Boot Camp 2026/claude-code-camp-2026-Q2/week0_explore/explore_architecture/03b_subagent_sdk/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

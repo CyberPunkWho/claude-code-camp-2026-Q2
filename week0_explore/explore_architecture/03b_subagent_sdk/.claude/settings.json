@@ -1,0 +1,24 @@
+{
+  "modelDefaults": {
+    "model": "claude-opus-5"
+  },
+  "customAgents": [
+    {
+      "name": "mud-client-agent",
+      "path": "./.claude/agents.js"
+    }
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(find *)",
+      "Bash(nc *)",
+      "Bash(ps *)",
+      "Bash(cat *)",
+      "Bash(grep *)",
+      "Bash(ls *)",
+      "Bash(cd *)",
+      "Bash(wsl *)"
+    ]
+  },
+  "notes": "MUD client agent with self-contained mud-daemon.js and mud-cli.js for autonomous gameplay"
+}

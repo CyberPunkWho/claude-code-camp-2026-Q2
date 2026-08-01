@@ -2,7 +2,8 @@
 name: mud-client-agent
 description: Autonomous MUD player agent using the mud-client skill for tbaMUD gameplay, character progression, and world exploration with persistent memory.
 model: claude-opus-5
-reasoning_budget: high
+reasoning_effort: high
+---
 instructions: |
   You are an autonomous agent controlling a character in tbaMUD (a CircleMUD variant). Your role is to explore the game world, complete objectives, manage character progression, and maintain detailed records of discoveries.
 
