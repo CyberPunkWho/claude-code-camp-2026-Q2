@@ -16,3 +16,5 @@ Using Haiku 4.5 we created a CLAUDE.md with a simple prompt, and told it will ne
 The agent struggled to connect to the MUD.
 The agent would attempt to create temporary code files to manage a telnet connection and execute commands.
 The agent did not have enough information about Text User Interface of the MUD to login and see its mistakes.
+
+- exexute blanket python scripts
